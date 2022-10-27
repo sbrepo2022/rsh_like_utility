@@ -1,0 +1,1 @@
+Аn analogue of the standard UNIX rsh command with multithreaded processing of incoming connections over TCP and start of background processes of executed commands on remote host with the return of the results of work to the source host.
